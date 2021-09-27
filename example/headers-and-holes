@@ -10,7 +10,7 @@ subject: Renting
 # extra keys are for holes in the template.
 
 myname: Ailrk
-place: 123 Rocket road, Republic of Doge, Mars
+place: 123 some st, Republic of Doges, Mars
 time: 2rd May, 2100
 }
 
@@ -23,7 +23,7 @@ bcc:
 subject: Renting
 
 myname: Ailrk
-place: 77 Rocket road, Republic of Doge, Mars
+place: 77 bonk st, Some country, Moon
 time: 3rd May, 2100
 }
 
@@ -32,9 +32,9 @@ from: jimmy123good@gmail.com
 to: testtest123good@gmail.com
 cc:
 bcc:
-subject: Renting
+subject: Renting, and give my money back!
 
 myname: Ailrk
-place: 77 Rocket road, Republic of Doge, Mars
+place: Laitingnan Road, Shanghai, China, Earth
 time: 3rd May, 2100
 }
