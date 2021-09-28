@@ -24,7 +24,6 @@ import qualified Data.Text.Lazy.IO           as TL
 import           Debug.Trace
 import           GHC.Records
 
--- import qualified Data.Text                   as TL
 import           GHC.Base                    (assert)
 import           Network.HaskellNet.Auth
 import           Network.HaskellNet.SMTP
