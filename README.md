@@ -1,3 +1,3 @@
-# A phishing script to book rental viewing.
+# A script to book rental viewing in batch.
 
-Well it doesn't work as well as I expected quite honestly.
+Sadly it doesn't work as well as I expected.
